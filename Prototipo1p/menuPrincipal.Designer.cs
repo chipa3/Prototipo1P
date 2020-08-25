@@ -35,6 +35,7 @@
             this.iNFORMESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hERRAMIENTASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aYUDAToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.vENTASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -69,6 +70,8 @@
             // 
             // pROCESOSToolStripMenuItem
             // 
+            this.pROCESOSToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.vENTASToolStripMenuItem});
             this.pROCESOSToolStripMenuItem.Name = "pROCESOSToolStripMenuItem";
             this.pROCESOSToolStripMenuItem.Size = new System.Drawing.Size(99, 24);
             this.pROCESOSToolStripMenuItem.Text = "PROCESOS ";
@@ -91,13 +94,19 @@
             this.aYUDAToolStripMenuItem1.Size = new System.Drawing.Size(71, 24);
             this.aYUDAToolStripMenuItem1.Text = "AYUDA";
             // 
-            // Form1
+            // vENTASToolStripMenuItem
+            // 
+            this.vENTASToolStripMenuItem.Name = "vENTASToolStripMenuItem";
+            this.vENTASToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.vENTASToolStripMenuItem.Text = "VENTAS";
+            // 
+            // menuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.menuStrip1);
-            this.Name = "Form1";
+            this.Name = "menuPrincipal";
             this.Text = "Form1";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -115,6 +124,7 @@
         private System.Windows.Forms.ToolStripMenuItem iNFORMESToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem hERRAMIENTASToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem aYUDAToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem vENTASToolStripMenuItem;
     }
 }
 

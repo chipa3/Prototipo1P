@@ -7,3 +7,12 @@ C:\Users\jose lopez\Desktop\Prototipo1p\obj\Debug\Prototipo1p.Properties.Resourc
 C:\Users\jose lopez\Desktop\Prototipo1p\obj\Debug\Prototipo1p.csproj.GenerateResource.cache
 C:\Users\jose lopez\Desktop\Prototipo1p\obj\Debug\Prototipo1p.exe
 C:\Users\jose lopez\Desktop\Prototipo1p\obj\Debug\Prototipo1p.pdb
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\bin\Debug\Prototipo1p.exe.config
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\bin\Debug\Prototipo1p.exe
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\bin\Debug\Prototipo1p.pdb
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\obj\Debug\Prototipo1p.csprojAssemblyReference.cache
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\obj\Debug\Prototipo1p.menuPrincipal.resources
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\obj\Debug\Prototipo1p.Properties.Resources.resources
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\obj\Debug\Prototipo1p.csproj.GenerateResource.cache
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\obj\Debug\Prototipo1p.exe
+C:\Users\jose lopez\Documents\GitHub\Prototipo1P\Prototipo1p\obj\Debug\Prototipo1p.pdb
